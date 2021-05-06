@@ -2,4 +2,4 @@
 
 ## Second Draft
 
-<img src="./images/The%20Prisoners%20Dilemma%20on%20Crack.jpg" width="640" />
+<img src="./images/The%20Prisoners%20Dilemma%20on%20Crack.png" width="640" />
